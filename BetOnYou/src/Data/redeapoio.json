@@ -1,0 +1,20 @@
+[
+  {
+    "Id": 1,
+    "Nome": "Centro de Apoio Psicológico",
+    "Tipo": "Psicólogo",
+    "Contato": "psicologo@apoio.com"
+  },
+  {
+    "Id": 2,
+    "Nome": "Associação Livre de Jogadores",
+    "Tipo": "Grupo de Apoio",
+    "Contato": "grupoapoio@ajuda.org"
+  },
+  {
+    "Id": 3,
+    "Nome": "ONG Vida Saudável",
+    "Tipo": "ONG",
+    "Contato": "contato@vidasaudavel.org"
+  }
+]
